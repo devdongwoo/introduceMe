@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #1b1a22;
+}
+
+span {
+  &::selection {
+    background: none;
+  }
+}
+
+@font-face {
+  font-family: "LINESeedKR";
+  font-weight: bold;
+  src: url(/font/LINESeedKR-Bd.ttf);
+}
+
+@font-face {
+  font-family: "LINESeedKR";
+  font-weight: 300;
+  src: url(/font/LINESeedKR-Th.ttf);
+}
+
+@font-face {
+  font-family: "LINESeedKR";
+  font-weight: 500;
+  src: url(/font/LINESeedKR-Rg.ttf);
+}
+
+.sphere {
+  width: 500px;
+  height: 500px;
+  margin-left: 2rem;
+}
+
+@media (max-width: 768px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
+
+  .positionMenu {
+    display: none !important;
+  }
+  .firstSection {
+    padding-top: 1.2rem;
+    position: relative;
+  }
+
+  .firstContainer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .rightSection {
+    width: 240px;
+    height: 240px;
+    position: absolute !important;
+    right: 8rem !important;
+    top: 24rem !important;
+  }
+
+  .sphere {
+    width: 240px !important;
+    height: 240px !important;
+    margin-left: 1.2rem !important;
+  }
+
+  /**
+    Second section
+  **/
+  .secondSection {
+    padding: 0 14px !important;
+  }
+
+  /**
+    Third section
+  **/
+  .thirdSection {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start !important;
+  }
+
+  .project {
+    display: flex;
+    flex-direction: column !important;
+  }
+
+  .aboutproject {
+    margin: 40px 0 !important;
+    margin-left: 0px !important;
+  }
+  .skillexplanation {
+    font-size: 14px !important;
+  }
+  .check {
+    color: #ffc831 !important;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1360px) {
+  .positionMenu {
+    display: none !important;
+  }
+  .firstSection {
+    padding-top: 40px !important;
+  }
+
+  .sphere {
+    width: 300px !important;
+    height: 300px !important;
+    margin-right: 3rem !important;
+  }
+}
