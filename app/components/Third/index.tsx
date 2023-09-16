@@ -20,7 +20,18 @@ export default function Projects() {
           <Project className="project">
             <ProjectImg src="/img/seekerMain.png" />
             <AboutProject className="aboutproject">
-              <Explanation>Seeker 롤 전적검색(반응형)</Explanation>
+              <Explanation>Seeker 롤 전적검색</Explanation>
+              <Explanation>
+                <Check className="check">
+                  <FontAwesomeIcon
+                    style={{
+                      fontSize: "16px"
+                    }}
+                    icon={faCheck}
+                  />
+                </Check>{" "}
+                1인 토이프로젝트 개발(반응형)
+              </Explanation>
               <Explanation>
                 <Check className="check">
                   <FontAwesomeIcon
