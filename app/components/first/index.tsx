@@ -74,7 +74,7 @@ export default function Production() {
           </Introduction>
           <SubIntroduction ref={subIntroductionRef}>
             <About>
-              Si, <Highlight>2년차 주니어</Highlight>
+              <Highlight>2년차 주니어</Highlight>
               개발자입니다.
             </About>
             <About>
@@ -84,7 +84,7 @@ export default function Production() {
             <About>
               <Highlight>배움을 끊임없이 도전하는</Highlight> 개발자로써
             </About>
-            <About>프론트엔드 개발자를 희망하고 있습니다.</About>
+            <About>항상 변하는 모습을 보여드리고 싶습니다.</About>
           </SubIntroduction>
         </CenterSection>
         <RightSection className="rightSection">
