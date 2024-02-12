@@ -64,16 +64,6 @@ function PositionMenu() {
       <UnderBox>
         <Email>donig1225@naver.com</Email>
         <Telephone>tel: 010-8839-4592</Telephone>
-        <Link
-          href="https://github.com/devdongwoo"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            width: "30px"
-          }}
-        >
-          <Github src="/img/github-mark-white.png" width="30" />
-        </Link>
         <div style={{display:"flex", alignItems: "center"}}>
           <Link
             href="https://github.com/devdongwoo"
