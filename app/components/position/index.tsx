@@ -183,9 +183,6 @@ const Email = styled(Telephone)`
 
 const Github = styled.img``
 
-<<<<<<< HEAD
-=======
 const Velog = Github
 
->>>>>>> master
 export default dynamic(() => Promise.resolve(PositionMenu), { ssr: false })
