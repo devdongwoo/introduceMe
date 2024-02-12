@@ -64,7 +64,6 @@ function PositionMenu() {
       <UnderBox>
         <Email>donig1225@naver.com</Email>
         <Telephone>tel: 010-8839-4592</Telephone>
-<<<<<<< HEAD
         <Link
           href="https://github.com/devdongwoo"
           target="_blank"
@@ -75,7 +74,6 @@ function PositionMenu() {
         >
           <Github src="/img/github-mark-white.png" width="30" />
         </Link>
-=======
         <div style={{display:"flex", alignItems: "center"}}>
           <Link
             href="https://github.com/devdongwoo"
@@ -99,8 +97,6 @@ function PositionMenu() {
             <Velog src="/img/velog_icon.svg" width="30"/>
           </Link>
         </div>
-        
->>>>>>> master
       </UnderBox>
     </Wrap>
   )
