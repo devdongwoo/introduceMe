@@ -1,4 +1,4 @@
-# Seeker (toy project)
+# IntroduceMe (toy project)
 
 - 배포주소(vercel)<br/>
   https://introduce-me-puce.vercel.app/
