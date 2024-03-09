@@ -221,7 +221,7 @@ export default function Projects() {
               </Explanation>
               <Explanation>
                 <Link
-                  href="https://github.com/devdongwoo/introduce_portfolio"
+                  href="https://github.com/devdongwoo/introduceMe"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
