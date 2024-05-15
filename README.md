@@ -2,7 +2,6 @@
 
 - 배포주소(vercel)<br/>
   https://introduce-me-puce.vercel.app/
-  (※ 2024 / 5 / 11 이후로 부터 vercel 한국자체 ISP 차단으로 인해 uri 사용못함)
 - 개발기간<br/>
   2023.08.25 ~ 2023.08.27
 
