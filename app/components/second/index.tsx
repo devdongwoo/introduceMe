@@ -11,7 +11,7 @@ export default function Career() {
           <GreenLogo src="/img/green_cross.png" width={120} height={60} />
           <CareerAbout style={{ paddingTop: "10px", paddingLeft: "10px" }}>
             <First>
-              ● 혈액 ERP 관리 프로젝트 (2022.11 ~ 2022.12) - 서브 개발자
+              ● 혈액 ERP 관리 프로젝트 (2022.11 ~ 2022.12) - 개발자
             </First>
             <Second>
               ● 기술 - <Skill>JavaScript</Skill>(Vanila, Jquery) /{" "}
@@ -24,11 +24,11 @@ export default function Career() {
           <BhcLogo src="/img/bhc_logo.png" width={120} height={60} />
           <CareerAbout style={{ paddingTop: "4px" }}>
             <First>
-              ● 영업 ERP 프로젝트 (2022.03 ~ 2022.10) - 메인개발자, ASP를 JAVA
+              ● 영업 ERP 프로젝트 (2022.03 ~ 2022.10) - 개발자, ASP를 JAVA
               Spring boot로 convert
             </First>
             <Second>
-              ● 물류 창고 WMS 프로젝트 (2021.05 ~ 2021.08) - 서브 개발자
+              ● 물류 창고 WMS 프로젝트 (2021.05 ~ 2021.08) - 개발자
             </Second>
             <Third>
               ● 기술 - <Skill>JavaScript</Skill>(Vanila, Jquery) /{" "}
@@ -45,8 +45,7 @@ export default function Career() {
           />
           <CareerAbout style={{ paddingTop: "10px" }}>
             <First>
-              ● ERP 신규 관리, 경매 프로젝트 (2021.08 ~ 2021.12) - QA, 서브
-              개발자{" "}
+              ● ERP 신규 관리, 경매 프로젝트 (2021.08 ~ 2021.12) - QA, 개발자{" "}
             </First>
             <Second>
               ● 기술 - <Skill>JavaScript</Skill>(React, Axios, Vanila) /{" "}
