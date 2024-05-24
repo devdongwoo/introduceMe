@@ -56,7 +56,7 @@ export default function Projects() {
               </Explanation>
               <Explanation>
                 <Link
-                  href="https://github.com/devdongwoo/seeker"
+                  href="https://github.com/devdongwoo/seeker-project"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
