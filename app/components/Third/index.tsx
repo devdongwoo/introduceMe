@@ -66,7 +66,7 @@ export default function Projects() {
                   style={{
                     marginLeft: "20px"
                   }}
-                  href="https://seeker-flame.vercel.app/"
+                  href="https://seeker-project.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
