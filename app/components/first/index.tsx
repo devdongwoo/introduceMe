@@ -74,7 +74,7 @@ export default function Production() {
           </Introduction>
           <SubIntroduction ref={subIntroductionRef}>
             <About>
-              <Highlight>경력2년 주니어</Highlight>
+              <Highlight>경력3년차 주니어</Highlight>
               개발자입니다.
             </About>
             <About>
